@@ -1,0 +1,14 @@
+{
+    "name": "umpirsky/symfony-issue-22502",
+    "require": {
+        "symfony/symfony": "v2.8.17"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saša Stamenković",
+            "email": "umpirsky@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
